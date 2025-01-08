@@ -23,3 +23,18 @@ Things you may want to cover:
 
 * ...
 # Projet-Rene
+
+Crédits :
+
+- Eve Tissot
+- Léa Lafaye
+- Naika Jean
+- Dina Rakotonarivo
+- Nathan Vandaele
+- Louis Le Doussal
+
+
+Remerciements :
+
+- Alexis Benoit
+- Thibaut Charron
